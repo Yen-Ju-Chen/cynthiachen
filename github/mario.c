@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-
+//easy
 //1.問height <8 跑do while迴圈 
 int main(void)
 {
