@@ -1,2 +1,2 @@
-CS50 pset0 scratch
-CS50 pset1 mario 
+CS50 pset0 scratch game
+cratch.mit.edu/projects/475853114/
